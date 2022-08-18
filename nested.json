@@ -1,0 +1,8 @@
+{
+    "id": 23,
+    "name": "jane doe",
+    "salary": 9000,
+    "email": "JaneDoe@test.com",
+    "experience": {"python":5, "data Science":2},
+    "projectinfo": [{"id":100, "name":"Data Mining"}]
+}
